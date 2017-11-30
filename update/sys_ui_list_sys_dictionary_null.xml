@@ -1,183 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_siam_light_message_type" version="2" view="">
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sys_dictionary" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_snc_siam_light_message_type" element="NULL" name="x_snc_siam_light_message_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39112f04db324b00b315f27eaf96193c</list_id>
+            <list_id display_value="sys_dictionary" element="NULL" name="sys_dictionary" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8d2dc938db328b00b315f27eaf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2017-11-28 11:29:57</sys_created_on>
-            <sys_id>71112f04db324b00b315f27eaf96193e</sys_id>
+            <sys_created_on>2017-11-30 08:38:59</sys_created_on>
+            <sys_id>8d2dc938db328b00b315f27eaf9619a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2017-11-28 11:29:57</sys_updated_on>
+            <sys_updated_on>2017-11-30 08:38:59</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>description</element>
-            <list_id display_value="x_snc_siam_light_message_type" element="NULL" name="x_snc_siam_light_message_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39112f04db324b00b315f27eaf96193c</list_id>
+            <element>active</element>
+            <list_id display_value="sys_dictionary" element="NULL" name="sys_dictionary" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8d2dc938db328b00b315f27eaf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2017-11-28 11:29:57</sys_created_on>
-            <sys_id>79112f04db324b00b315f27eaf96193e</sys_id>
+            <sys_created_on>2017-11-30 08:38:59</sys_created_on>
+            <sys_id>012dc938db328b00b315f27eaf9619a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2017-11-28 11:29:57</sys_updated_on>
+            <sys_updated_on>2017-11-30 08:38:59</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>distinct_update</element>
-            <list_id display_value="x_snc_siam_light_message_type" element="NULL" name="x_snc_siam_light_message_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39112f04db324b00b315f27eaf96193c</list_id>
+            <element>array</element>
+            <list_id display_value="sys_dictionary" element="NULL" name="sys_dictionary" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8d2dc938db328b00b315f27eaf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2017-11-28 11:29:57</sys_created_on>
-            <sys_id>f9112f04db324b00b315f27eaf96193e</sys_id>
+            <sys_created_on>2017-11-30 08:38:59</sys_created_on>
+            <sys_id>812dc938db328b00b315f27eaf9619a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2017-11-28 11:29:57</sys_updated_on>
+            <sys_updated_on>2017-11-30 08:38:59</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>outbound_trigger_enabled</element>
-            <list_id display_value="x_snc_siam_light_message_type" element="NULL" name="x_snc_siam_light_message_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39112f04db324b00b315f27eaf96193c</list_id>
+            <element>array_denormalized</element>
+            <list_id display_value="sys_dictionary" element="NULL" name="sys_dictionary" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8d2dc938db328b00b315f27eaf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2017-11-28 11:29:57</sys_created_on>
-            <sys_id>7d112f04db324b00b315f27eaf96193e</sys_id>
+            <sys_created_on>2017-11-30 08:38:59</sys_created_on>
+            <sys_id>052dc938db328b00b315f27eaf9619a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2017-11-28 11:29:57</sys_updated_on>
+            <sys_updated_on>2017-11-30 08:38:59</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>outbound_type</element>
-            <list_id display_value="x_snc_siam_light_message_type" element="NULL" name="x_snc_siam_light_message_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39112f04db324b00b315f27eaf96193c</list_id>
+            <element>attributes</element>
+            <list_id display_value="sys_dictionary" element="NULL" name="sys_dictionary" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8d2dc938db328b00b315f27eaf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2017-11-28 11:29:57</sys_created_on>
-            <sys_id>fd112f04db324b00b315f27eaf96193e</sys_id>
+            <sys_created_on>2017-11-30 08:38:59</sys_created_on>
+            <sys_id>852dc938db328b00b315f27eaf9619a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2017-11-28 11:29:57</sys_updated_on>
+            <sys_updated_on>2017-11-30 08:38:59</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>payload_is_body</element>
-            <list_id display_value="x_snc_siam_light_message_type" element="NULL" name="x_snc_siam_light_message_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39112f04db324b00b315f27eaf96193c</list_id>
+            <element>audit</element>
+            <list_id display_value="sys_dictionary" element="NULL" name="sys_dictionary" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8d2dc938db328b00b315f27eaf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2017-11-28 11:29:57</sys_created_on>
-            <sys_id>71112f04db324b00b315f27eaf96193f</sys_id>
+            <sys_created_on>2017-11-30 08:38:59</sys_created_on>
+            <sys_id>092dc938db328b00b315f27eaf9619a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2017-11-28 11:29:57</sys_updated_on>
+            <sys_updated_on>2017-11-30 08:38:59</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>rest_http_method</element>
-            <list_id display_value="x_snc_siam_light_message_type" element="NULL" name="x_snc_siam_light_message_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39112f04db324b00b315f27eaf96193c</list_id>
+            <element>calculation</element>
+            <list_id display_value="sys_dictionary" element="NULL" name="sys_dictionary" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8d2dc938db328b00b315f27eaf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2017-11-28 11:29:57</sys_created_on>
-            <sys_id>f1112f04db324b00b315f27eaf96193f</sys_id>
+            <sys_created_on>2017-11-30 08:38:59</sys_created_on>
+            <sys_id>892dc938db328b00b315f27eaf9619a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2017-11-28 11:29:57</sys_updated_on>
+            <sys_updated_on>2017-11-30 08:38:59</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>rest_message</element>
-            <list_id display_value="x_snc_siam_light_message_type" element="NULL" name="x_snc_siam_light_message_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39112f04db324b00b315f27eaf96193c</list_id>
+            <element>choice</element>
+            <list_id display_value="sys_dictionary" element="NULL" name="sys_dictionary" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8d2dc938db328b00b315f27eaf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2017-11-28 11:29:57</sys_created_on>
-            <sys_id>75112f04db324b00b315f27eaf96193f</sys_id>
+            <sys_created_on>2017-11-30 08:38:59</sys_created_on>
+            <sys_id>0d2dc938db328b00b315f27eaf9619a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2017-11-28 11:29:57</sys_updated_on>
+            <sys_updated_on>2017-11-30 08:38:59</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>service_providers</element>
-            <list_id display_value="x_snc_siam_light_message_type" element="NULL" name="x_snc_siam_light_message_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39112f04db324b00b315f27eaf96193c</list_id>
+            <element>choice_field</element>
+            <list_id display_value="sys_dictionary" element="NULL" name="sys_dictionary" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8d2dc938db328b00b315f27eaf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2017-11-28 11:29:57</sys_created_on>
-            <sys_id>f5112f04db324b00b315f27eaf96193f</sys_id>
+            <sys_created_on>2017-11-30 08:38:59</sys_created_on>
+            <sys_id>8d2dc938db328b00b315f27eaf9619a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2017-11-28 11:29:57</sys_updated_on>
+            <sys_updated_on>2017-11-30 08:38:59</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>soap_message</element>
-            <list_id display_value="x_snc_siam_light_message_type" element="NULL" name="x_snc_siam_light_message_type" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">39112f04db324b00b315f27eaf96193c</list_id>
+            <element>choice_table</element>
+            <list_id display_value="sys_dictionary" element="NULL" name="sys_dictionary" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8d2dc938db328b00b315f27eaf9619a1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2017-11-28 11:29:57</sys_created_on>
-            <sys_id>79112f04db324b00b315f27eaf96193f</sys_id>
+            <sys_created_on>2017-11-30 08:38:59</sys_created_on>
+            <sys_id>012dc938db328b00b315f27eaf9619a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2017-11-28 11:29:57</sys_updated_on>
+            <sys_updated_on>2017-11-30 08:38:59</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element/>
             <max_value>false</max_value>
             <min_value>false</min_value>
-            <name>x_snc_siam_light_message_type</name>
+            <name>sys_dictionary</name>
             <parent/>
             <position/>
             <relationship/>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>daniel.draes</sys_created_by>
-            <sys_created_on>2017-11-28 11:29:57</sys_created_on>
+            <sys_created_on>2017-11-30 08:40:27</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>39112f04db324b00b315f27eaf96193c</sys_id>
+            <sys_id>1a7dcd38db328b00b315f27eaf961986</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>x_snc_siam_light_message_type</sys_name>
-            <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+            <sys_name/>
+            <sys_package/>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
-            <sys_update_name>sys_ui_list_x_snc_siam_light_message_type_null</sys_update_name>
+            <sys_update_name/>
             <sys_updated_by>daniel.draes</sys_updated_by>
-            <sys_updated_on>2017-11-28 11:29:57</sys_updated_on>
-            <sys_user/>
+            <sys_updated_on>2017-11-30 08:40:27</sys_updated_on>
+            <sys_user display_value="Daniel Dräs">a2e652034fb11200908b81c18110c792</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

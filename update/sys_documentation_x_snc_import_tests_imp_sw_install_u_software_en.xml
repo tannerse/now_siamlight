@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_software" label="software" language="en" table="x_snc_import_tests_imp_sw_install">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_software</element>
+            <help/>
+            <hint/>
+            <label>software</label>
+            <language>en</language>
+            <name>x_snc_import_tests_imp_sw_install</name>
+            <plural>softwares</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_on>2017-09-23 18:25:35</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3247c543db950300b315f27eaf961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>software</sys_name>
+            <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_import_tests_imp_sw_install_u_software_en</sys_update_name>
+            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_on>2017-09-23 18:25:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
