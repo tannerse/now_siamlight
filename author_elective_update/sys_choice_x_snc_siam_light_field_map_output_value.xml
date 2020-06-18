@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="output_value" table="x_snc_siam_light_field_map" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>output_value</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Display Value</label>
+            <language>en</language>
+            <name>x_snc_siam_light_field_map</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-11-03 21:08:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a93980529a346002e68eb689ad1b22d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-11-03 21:08:31</sys_updated_on>
+            <value>display</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>output_value</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Database Value</label>
+            <language>en</language>
+            <name>x_snc_siam_light_field_map</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-11-03 21:08:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e93980529a346002e68eb689ad1b22d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-11-03 21:08:31</sys_updated_on>
+            <value>database</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>output_value</element>
+            <name>x_snc_siam_light_field_map</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-11-03 21:08:31</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3f7b3b104fa00700908b81c18110c7e7</sys_id>
+            <sys_mod_count>23</sys_mod_count>
+            <sys_name>output_value</sys_name>
+            <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+            <sys_update_name>sys_choice_x_snc_siam_light_field_map_output_value</sys_update_name>
+            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_on>2017-08-22 09:37:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</application>
+        <file_path/>
+        <instance_id>21b96f364f791200e17199701310c795</instance_id>
+        <instance_name>empddraesdev</instance_name>
+        <name>sys_choice_x_snc_siam_light_field_map_output_value</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="output_value" table="x_snc_siam_light_field_map" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>output_value</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Display Value</label>
+            <language>en</language>
+            <name>x_snc_siam_light_field_map</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-11-03 21:08:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a93980529a346002e68eb689ad1b22d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-11-03 21:08:31</sys_updated_on>
+            <value>display</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>output_value</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Database Value</label>
+            <language>en</language>
+            <name>x_snc_siam_light_field_map</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-11-03 21:08:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e93980529a346002e68eb689ad1b22d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-11-03 21:08:31</sys_updated_on>
+            <value>database</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>output_value</element>
+            <name>x_snc_siam_light_field_map</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-11-03 21:08:31</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3f7b3b104fa00700908b81c18110c7e7</sys_id>
+            <sys_mod_count>23</sys_mod_count>
+            <sys_name>output_value</sys_name>
+            <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+            <sys_update_name>sys_choice_x_snc_siam_light_field_map_output_value</sys_update_name>
+            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_on>2017-08-22 09:37:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>]]></payload>
+        <payload_hash>-2038852043</payload_hash>
+        <record_name>Field map.Output Value</record_name>
+        <reverted_from/>
+        <source>6a446b94dba9d8507927623b4b96195c</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2020-06-18 08:00:49</sys_created_on>
+        <sys_id>d78463d4dba9d8507927623b4b96196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172c671dacf0000001</sys_recorded_at>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2020-06-18 08:00:49</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>178463d400a9d85031606ce3833bf66f</update_guid>
+        <update_guid_history>178463d400a9d85031606ce3833bf66f:0,cf142394a1a9d850a7218548ca0866c5:416447362,8b142394f1a9d8504f8e0621cfc6c7c2:-331739522,416254952:416254952,2146534949:2146534949,416447362:416447362,458763758:458763758,1159817768:1159817768,416447362:416447362,2146534949:2146534949,458763758:458763758,1159817768:1159817768,416447362:416447362,2146534949:2146534949,458763758:458763758,2146534949:2146534949,-725544879:-725544879,458763758:458763758</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2020-06-18 11:43:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>d78463d4dba9d8507927623b4b96196d</sys_id>
+        <sys_metadata>d78463d4dba9d8507927623b4b96196d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>output_value</sys_name>
+        <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+        <sys_scope_delete display_value="">3f806baa7e3e450d83820d4c701eef11</sys_scope_delete>
+        <sys_update_name>sys_choice_x_snc_siam_light_field_map_output_value</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_snc_siam_light_field_map_output_value">d78463d4dba9d8507927623b4b96196f</sys_update_version>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2020-06-18 11:43:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

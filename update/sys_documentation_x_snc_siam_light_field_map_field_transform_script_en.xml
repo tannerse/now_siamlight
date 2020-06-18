@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="field_transform_script" label="Field Transform Script" language="en" table="x_snc_siam_light_field_map">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>field_transform_script</element>
@@ -13,7 +12,7 @@
             <sys_created_by>Richard.Szolar.admin</sys_created_by>
             <sys_created_on>2016-12-09 13:47:40</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>ebcd701ebf2f6600d6cabdbaa361d078</sys_id>
+            <sys_id>b0442b94dba9d8507927623b4b961908</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Field Transform Script</sys_name>
             <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>

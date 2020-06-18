@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_form_sections form_id="7a4dde434fb11200908b81c18110c750" sys_domain="global" table="x_snc_siam_light_field_map" version="3">
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>

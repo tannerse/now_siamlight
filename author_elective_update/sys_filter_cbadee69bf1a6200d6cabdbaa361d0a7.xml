@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="DELETE">
+        <filter table="sys_user">nameSTARTSWITHcarmel^nameISNOTEMPTY^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="carmel"/>
+            <item endquery="false" field="name" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used>2016-10-06 10:42:29</last_used>
+        <mobile>true</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2016-10-06 10:42:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cbadee69bf1a6200d6cabdbaa361d0a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mobile</sys_name>
+        <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+        <sys_update_name>sys_filter_cbadee69bf1a6200d6cabdbaa361d0a7</sys_update_name>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2016-10-06 10:42:29</sys_updated_on>
+        <table>sys_user</table>
+        <title>mobile</title>
+        <user display_value="">174d2737bfa16200d6cabdbaa361d021</user>
+    </sys_filter>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</application>
+        <file_path/>
+        <instance_id>21b96f364f791200e17199701310c795</instance_id>
+        <instance_name>empddraesdev</instance_name>
+        <name>sys_filter_cbadee69bf1a6200d6cabdbaa361d0a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="sys_user">nameSTARTSWITHcarmel^nameISNOTEMPTY^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="carmel"/>
+            <item endquery="false" field="name" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used>2016-10-06 10:42:29</last_used>
+        <mobile>true</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2016-10-06 10:42:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cbadee69bf1a6200d6cabdbaa361d0a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mobile</sys_name>
+        <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+        <sys_update_name>sys_filter_cbadee69bf1a6200d6cabdbaa361d0a7</sys_update_name>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2016-10-06 10:42:29</sys_updated_on>
+        <table>sys_user</table>
+        <title>mobile</title>
+        <user display_value="">174d2737bfa16200d6cabdbaa361d021</user>
+    </sys_filter>
+</record_update>]]></payload>
+        <payload_hash>-468176801</payload_hash>
+        <record_name>mobile</record_name>
+        <reverted_from/>
+        <source>bd6bf7104fa00700908b81c18110c780</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-08-09 11:42:33</sys_created_on>
+        <sys_id>d08b3b104fa00700908b81c18110c7fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>15dc6cda8280000000</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-08-09 11:42:33</sys_updated_on>
+        <type>Filter</type>
+        <update_guid/>
+        <update_guid_history/>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2020-06-18 06:59:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_filter">sys_filter</sys_db_object>
+        <sys_id>338ca10c8d4a4a048da54abd4e25df61</sys_id>
+        <sys_metadata>cbadee69bf1a6200d6cabdbaa361d0a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mobile</sys_name>
+        <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+        <sys_parent display_value="Sys User">1b1da332db311200b315f27eaf961973</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+        <sys_scope_delete display_value="">3f806baa7e3e450d83820d4c701eef11</sys_scope_delete>
+        <sys_update_name>sys_filter_cbadee69bf1a6200d6cabdbaa361d0a7</sys_update_name>
+        <sys_update_version display_value="sys_filter_cbadee69bf1a6200d6cabdbaa361d0a7">d08b3b104fa00700908b81c18110c7fb</sys_update_version>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2020-06-18 06:59:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

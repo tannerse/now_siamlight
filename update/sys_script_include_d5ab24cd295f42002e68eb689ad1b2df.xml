@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_script_include">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
         <api_name>x_snc_siam_light.SIAMQueue</api_name>
+        <caller_access/>
         <client_callable>false</client_callable>
         <description>This class handles creation and updating records in the SIAM queue table</description>
         <name>SIAMQueue</name>
@@ -52,7 +52,7 @@ SIAMQueue.prototype = {
 			
 			if (SIAMUtil.isJSON(source_record.payload)) {
 				this.record = new global.JSON().decode(source_record.payload);
-				SIAMUtil.setParent(this.record);
+// #11				SIAMUtil.setParent(this.record);
 			} else {
 				this.logger.logError('Received JSON Payload not valid.');
 			}
@@ -360,7 +360,7 @@ SIAMQueue.prototype = {
 			if (field == 'work_notes') {
 				gr.work_notes = value;
 			} else if (field == 'comments') {
-				gr_comments = value;
+				gr.comments = value;
 			} else {
 				gr.setValue(field, value);
 			}
@@ -497,7 +497,7 @@ SIAMQueue.prototype = {
         <sys_created_on>2015-10-22 12:55:49</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>d5ab24cd295f42002e68eb689ad1b2df</sys_id>
-        <sys_mod_count>156</sys_mod_count>
+        <sys_mod_count>158</sys_mod_count>
         <sys_name>SIAMQueue</sys_name>
         <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
         <sys_policy>read</sys_policy>
@@ -505,6 +505,6 @@ SIAMQueue.prototype = {
         <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
         <sys_update_name>sys_script_include_d5ab24cd295f42002e68eb689ad1b2df</sys_update_name>
         <sys_updated_by>daniel.draes</sys_updated_by>
-        <sys_updated_on>2017-12-11 09:28:02</sys_updated_on>
+        <sys_updated_on>2018-11-14 13:59:08</sys_updated_on>
     </sys_script_include>
 </record_update>

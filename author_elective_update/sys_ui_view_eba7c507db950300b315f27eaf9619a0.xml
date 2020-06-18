@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>service_portfolio</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2017-09-23 18:27:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>eba7c507db950300b315f27eaf9619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Portfolio</sys_name>
+        <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+        <sys_update_name>sys_ui_view_eba7c507db950300b315f27eaf9619a0</sys_update_name>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2017-09-23 18:27:16</sys_updated_on>
+        <title>Service Portfolio</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</application>
+        <file_path/>
+        <instance_id>21b96f364f791200e17199701310c795</instance_id>
+        <instance_name>empddraesdev</instance_name>
+        <name>sys_ui_view_eba7c507db950300b315f27eaf9619a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>service_portfolio</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>daniel.draes</sys_created_by><sys_created_on>2017-09-23 18:27:16</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>eba7c507db950300b315f27eaf9619a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Portfolio</sys_name><sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope><sys_update_name>sys_ui_view_eba7c507db950300b315f27eaf9619a0</sys_update_name><sys_updated_by>daniel.draes</sys_updated_by><sys_updated_on>2017-09-23 18:27:16</sys_updated_on><title>Service Portfolio</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-214422655</payload_hash>
+        <record_name>Service Portfolio</record_name>
+        <reverted_from/>
+        <source>c7bad130db0110107927623b4b961971</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by/>
+        <sys_created_on>2020-05-25 14:44:15</sys_created_on>
+        <sys_id>45f71b18db29d8507927623b4b96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1724c4a92180000000</sys_recorded_at>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2020-06-18 11:43:37</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>05f71b18e229d8508012891b781c2d9c</update_guid>
+        <update_guid_history>05f71b18e229d8508012891b781c2d9c:-214422655</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2020-06-18 07:05:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>0ad7e134bbbb4064887202be9e166604</sys_id>
+        <sys_metadata>eba7c507db950300b315f27eaf9619a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Portfolio</sys_name>
+        <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+        <sys_scope_delete display_value="">3f806baa7e3e450d83820d4c701eef11</sys_scope_delete>
+        <sys_update_name>sys_ui_view_eba7c507db950300b315f27eaf9619a0</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_eba7c507db950300b315f27eaf9619a0">45f71b18db29d8507927623b4b96199c</sys_update_version>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2020-06-18 07:05:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

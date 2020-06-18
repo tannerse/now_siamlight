@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_read_mtom">
+    <kb_uc_can_read_mtom action="DELETE">
+        <kb_knowledge_base display_value="Customer Service">05ff44289f011200550bf7b6077fcfa3</kb_knowledge_base>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2017-08-18 09:35:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path/>
+        <sys_id>96a47d1337640b00b2e8021a54990eef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2017-08-18 09:35:12</sys_updated_on>
+        <user_criteria display_value="The ACME North America IT Department">25431493ff4221009b20ffffffffffe0</user_criteria>
+    </kb_uc_can_read_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>c86c4d7d096cc5046999ba291c5ee6f6</instance_id>
+        <instance_name>empddraes</instance_name>
+        <name>kb_uc_can_read_mtom_96a47d1337640b00b2e8021a54990eef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_read_mtom"><kb_uc_can_read_mtom action="INSERT_OR_UPDATE"><kb_knowledge_base display_value="Customer Service">05ff44289f011200550bf7b6077fcfa3</kb_knowledge_base><sys_created_by>daniel.draes</sys_created_by><sys_created_on>2017-08-18 09:35:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>96a47d1337640b00b2e8021a54990eef</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>daniel.draes</sys_updated_by><sys_updated_on>2017-08-18 09:35:12</sys_updated_on><user_criteria display_value="The ACME North America IT Department">25431493ff4221009b20ffffffffffe0</user_criteria></kb_uc_can_read_mtom></record_update>]]></payload>
+        <payload_hash>-1002796133</payload_hash>
+        <record_name>Customer Service.The ACME North America IT Department</record_name>
+        <reverted_from/>
+        <source>4636c54fdb550300b315f27eaf961997</source>
+        <source_table>sys_sync_history</source_table>
+        <state>current</state>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2017-09-23 18:25:41</sys_created_on>
+        <sys_id>12a4bd1337640b00b2e8021a54990ed1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>15df4b24c800000000</sys_recorded_at>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2017-09-23 18:25:41</sys_updated_on>
+        <type>Who Can Read Knowledge Base</type>
+        <update_guid>44960d8f17550300898e1c35892a8dea</update_guid>
+        <update_guid_history>44960d8f17550300898e1c35892a8dea:-1002796133</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-06-18 08:55:19">7785db54db29d8507927623b4b961952</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2020-06-18 06:55:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="kb_uc_can_read_mtom">kb_uc_can_read_mtom</sys_db_object>
+        <sys_id>6df596c082a94dce898f4368dde9c051</sys_id>
+        <sys_metadata>96a47d1337640b00b2e8021a54990eef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Service.The ACME North America IT Department</sys_name>
+        <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+        <sys_scope_delete display_value="">3f806baa7e3e450d83820d4c701eef11</sys_scope_delete>
+        <sys_update_name>kb_uc_can_read_mtom_96a47d1337640b00b2e8021a54990eef</sys_update_name>
+        <sys_update_version display_value="kb_uc_can_read_mtom_96a47d1337640b00b2e8021a54990eef">12a4bd1337640b00b2e8021a54990ed1</sys_update_version>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2020-06-18 06:55:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

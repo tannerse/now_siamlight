@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="payload_is_body" label="Use SIAM Payload as body" language="en" table="x_snc_siam_light_message_type">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>payload_is_body</element>
@@ -13,7 +12,7 @@
             <sys_created_by>daniel.draes</sys_created_by>
             <sys_created_on>2017-03-07 12:46:52</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>03cbb122db513200b315f27eaf961979</sys_id>
+            <sys_id>79442b94dba9d8507927623b4b9619e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Use SIAM Payload as body</sys_name>
             <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>

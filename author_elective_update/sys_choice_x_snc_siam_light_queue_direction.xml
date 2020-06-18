@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="direction" table="x_snc_siam_light_queue" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>direction</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>input</label>
+            <language>en</language>
+            <name>x_snc_siam_light_queue</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-11-06 09:09:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53cb81bd292f46002e68eb689ad1b27b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-11-06 09:09:32</sys_updated_on>
+            <value>input</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>direction</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>output</label>
+            <language>en</language>
+            <name>x_snc_siam_light_queue</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-11-06 09:09:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5fcb81bd292f46002e68eb689ad1b27b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-11-06 09:09:32</sys_updated_on>
+            <value>output</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>direction</element>
+            <name>x_snc_siam_light_queue</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-11-06 09:09:32</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>888b3b104fa00700908b81c18110c7f0</sys_id>
+            <sys_mod_count>21</sys_mod_count>
+            <sys_name>direction</sys_name>
+            <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+            <sys_update_name>sys_choice_x_snc_siam_light_queue_direction</sys_update_name>
+            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_on>2017-08-22 09:37:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</application>
+        <file_path/>
+        <instance_id>21b96f364f791200e17199701310c795</instance_id>
+        <instance_name>empddraesdev</instance_name>
+        <name>sys_choice_x_snc_siam_light_queue_direction</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="direction" table="x_snc_siam_light_queue" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>direction</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>input</label>
+            <language>en</language>
+            <name>x_snc_siam_light_queue</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-11-06 09:09:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53cb81bd292f46002e68eb689ad1b27b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-11-06 09:09:32</sys_updated_on>
+            <value>input</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>direction</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>output</label>
+            <language>en</language>
+            <name>x_snc_siam_light_queue</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-11-06 09:09:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5fcb81bd292f46002e68eb689ad1b27b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-11-06 09:09:32</sys_updated_on>
+            <value>output</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>direction</element>
+            <name>x_snc_siam_light_queue</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-11-06 09:09:32</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>888b3b104fa00700908b81c18110c7f0</sys_id>
+            <sys_mod_count>21</sys_mod_count>
+            <sys_name>direction</sys_name>
+            <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+            <sys_update_name>sys_choice_x_snc_siam_light_queue_direction</sys_update_name>
+            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_on>2017-08-22 09:37:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>]]></payload>
+        <payload_hash>648064675</payload_hash>
+        <record_name>Queue.Direction</record_name>
+        <reverted_from/>
+        <source>6a446b94dba9d8507927623b4b96195c</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2020-06-18 08:00:52</sys_created_on>
+        <sys_id>f38463d4dba9d8507927623b4b96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172c671e4270000001</sys_recorded_at>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2020-06-18 08:00:52</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>338463d405a9d850ad1446a20f49129f</update_guid>
+        <update_guid_history>338463d405a9d850ad1446a20f49129f:0,6814af5413a9d8503318c84cafc1c56b:1374211708,2414af544aa9d850e9e87de78382b568:-1068897905,436550172:436550172,-546204874:-546204874,1374211708:1374211708,-248184228:-248184228,1640364496:1640364496,1374211708:1374211708,-546204874:-546204874,-248184228:-248184228,1640364496:1640364496,1374211708:1374211708,-546204874:-546204874,-248184228:-248184228,-757240503:-757240503,-546204874:-546204874,-248184228:-248184228</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2020-06-18 11:43:40</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>f38463d4dba9d8507927623b4b96199d</sys_id>
+        <sys_metadata>f38463d4dba9d8507927623b4b96199d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>direction</sys_name>
+        <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+        <sys_scope_delete display_value="">3f806baa7e3e450d83820d4c701eef11</sys_scope_delete>
+        <sys_update_name>sys_choice_x_snc_siam_light_queue_direction</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_snc_siam_light_queue_direction">f38463d4dba9d8507927623b4b96199f</sys_update_version>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2020-06-18 11:43:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

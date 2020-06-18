@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="external_action" label="External Action" language="en" table="x_snc_siam_light_queue">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>external_action</element>
@@ -13,7 +12,7 @@
             <sys_created_by>daniel.draes</sys_created_by>
             <sys_created_on>2016-12-12 13:24:10</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>a43554d3bf23a600d6cabdbaa361d0e8</sys_id>
+            <sys_id>99442b94dba9d8507927623b4b961976</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>External Action</sys_name>
             <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>

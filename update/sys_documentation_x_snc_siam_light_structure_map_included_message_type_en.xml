@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="included_message_type" label="Included Message Type" language="en" table="x_snc_siam_light_structure_map">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>included_message_type</element>
@@ -13,7 +12,7 @@
             <sys_created_by>daniel.draes</sys_created_by>
             <sys_created_on>2016-10-05 13:24:09</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>2119061dbf566200d6cabdbaa361d07c</sys_id>
+            <sys_id>a9442b94dba9d8507927623b4b96199d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Included Message Type</sys_name>
             <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>

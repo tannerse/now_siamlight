@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Opportunity</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Opportunity</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">33ede772db311200b315f27eaf9619c3</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2017-09-23 18:25:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6d474543db950300b315f27eaf9619ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Opportunity</sys_name>
+        <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+        <sys_update_name>sys_wizard_answer_6d474543db950300b315f27eaf9619ba</sys_update_name>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2017-09-23 18:25:30</sys_updated_on>
+        <table/>
+        <target_url>x_funnel_managemen_opportunity.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</application>
+        <file_path/>
+        <instance_id>21b96f364f791200e17199701310c795</instance_id>
+        <instance_name>empddraesdev</instance_name>
+        <name>sys_wizard_answer_6d474543db950300b315f27eaf9619ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Opportunity</answer><button_label/><dependent_value/><element/><name>Opportunity</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">33ede772db311200b315f27eaf9619c3</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>daniel.draes</sys_created_by><sys_created_on>2017-09-23 18:25:30</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>6d474543db950300b315f27eaf9619ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Opportunity</sys_name><sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope><sys_update_name>sys_wizard_answer_6d474543db950300b315f27eaf9619ba</sys_update_name><sys_updated_by>daniel.draes</sys_updated_by><sys_updated_on>2017-09-23 18:25:30</sys_updated_on><table/><target_url>x_funnel_managemen_opportunity.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>1583271820</payload_hash>
+        <record_name>Opportunity</record_name>
+        <reverted_from/>
+        <source>c7bad130db0110107927623b4b961971</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by/>
+        <sys_created_on>2020-05-25 14:44:15</sys_created_on>
+        <sys_id>bc281f18db29d8507927623b4b9619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1724c4a92180000000</sys_recorded_at>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2020-06-18 11:44:05</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>7c281f182829d8502b7427f91c835de9</update_guid>
+        <update_guid_history>7c281f182829d8502b7427f91c835de9:1583271820</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2020-06-18 07:06:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>90075c85a7cb4652b8d02b13edfc4111</sys_id>
+        <sys_metadata>6d474543db950300b315f27eaf9619ba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Opportunity</sys_name>
+        <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+        <sys_parent display_value="Task">33ede772db311200b315f27eaf9619c3</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+        <sys_scope_delete display_value="">3f806baa7e3e450d83820d4c701eef11</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_6d474543db950300b315f27eaf9619ba</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_6d474543db950300b315f27eaf9619ba">bc281f18db29d8507927623b4b9619e9</sys_update_version>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2020-06-18 07:06:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

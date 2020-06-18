@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="" label="Field map" language="en" table="x_snc_siam_light_field_map">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
@@ -13,7 +12,7 @@
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2015-10-22 11:23:28</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>879a9c09295f42002e68eb689ad1b21d</sys_id>
+            <sys_id>bc44e794dba9d8507927623b4b9619fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Field map</sys_name>
             <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>

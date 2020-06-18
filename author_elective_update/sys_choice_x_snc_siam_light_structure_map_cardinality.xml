@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="cardinality" table="x_snc_siam_light_structure_map" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cardinality</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Many</label>
+            <language>en</language>
+            <name>x_snc_siam_light_structure_map</name>
+            <sequence>0</sequence>
+            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_on>2016-10-05 13:25:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc79061dbf566200d6cabdbaa361d087</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_on>2016-10-05 13:29:47</sys_updated_on>
+            <value>n</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cardinality</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>One</label>
+            <language>en</language>
+            <name>x_snc_siam_light_structure_map</name>
+            <sequence>1</sequence>
+            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_on>2016-10-05 13:25:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6659425dbf566200d6cabdbaa361d0c5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_on>2016-10-05 13:29:47</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>cardinality</element>
+            <name>x_snc_siam_light_structure_map</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_on>2016-10-05 13:25:32</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>448b3b104fa00700908b81c18110c7f5</sys_id>
+            <sys_mod_count>14</sys_mod_count>
+            <sys_name>cardinality</sys_name>
+            <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+            <sys_update_name>sys_choice_x_snc_siam_light_structure_map_cardinality</sys_update_name>
+            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_on>2017-08-22 09:37:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</application>
+        <file_path/>
+        <instance_id>21b96f364f791200e17199701310c795</instance_id>
+        <instance_name>empddraesdev</instance_name>
+        <name>sys_choice_x_snc_siam_light_structure_map_cardinality</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="cardinality" table="x_snc_siam_light_structure_map" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cardinality</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Many</label>
+            <language>en</language>
+            <name>x_snc_siam_light_structure_map</name>
+            <sequence>0</sequence>
+            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_on>2016-10-05 13:25:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc79061dbf566200d6cabdbaa361d087</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_on>2016-10-05 13:29:47</sys_updated_on>
+            <value>n</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cardinality</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>One</label>
+            <language>en</language>
+            <name>x_snc_siam_light_structure_map</name>
+            <sequence>1</sequence>
+            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_on>2016-10-05 13:25:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6659425dbf566200d6cabdbaa361d0c5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_on>2016-10-05 13:29:47</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>cardinality</element>
+            <name>x_snc_siam_light_structure_map</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_on>2016-10-05 13:25:32</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>448b3b104fa00700908b81c18110c7f5</sys_id>
+            <sys_mod_count>14</sys_mod_count>
+            <sys_name>cardinality</sys_name>
+            <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+            <sys_update_name>sys_choice_x_snc_siam_light_structure_map_cardinality</sys_update_name>
+            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_on>2017-08-22 09:37:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>]]></payload>
+        <payload_hash>2129699576</payload_hash>
+        <record_name>Structure Map.Cardinality</record_name>
+        <reverted_from/>
+        <source>6a446b94dba9d8507927623b4b96195c</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2020-06-18 08:00:53</sys_created_on>
+        <sys_id>8c9463d4dba9d8507927623b4b9619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172c671e80e0000001</sys_recorded_at>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2020-06-18 08:00:53</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>c89463d432a9d85002a0f4a1741262be</update_guid>
+        <update_guid_history>c89463d432a9d85002a0f4a1741262be:0,0ff3ab54cda9d85072182a3ddf8d8350:1037992602,c3f3ab549aa9d85008d058ff19078c4d:15775599,1287703109:1287703109,1037992602:1037992602,-915267306:-915267306,-740298575:-740298575,1287703109:1287703109,1037992602:1037992602,-915267306:-915267306,-740298575:-740298575,-915267306:-915267306,1713468794:1713468794,-740298575:-740298575</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2020-06-18 11:43:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>8c9463d4dba9d8507927623b4b9619bc</sys_id>
+        <sys_metadata>8c9463d4dba9d8507927623b4b9619bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cardinality</sys_name>
+        <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+        <sys_scope_delete display_value="">3f806baa7e3e450d83820d4c701eef11</sys_scope_delete>
+        <sys_update_name>sys_choice_x_snc_siam_light_structure_map_cardinality</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_snc_siam_light_structure_map_cardinality">8c9463d4dba9d8507927623b4b9619be</sys_update_version>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2020-06-18 11:43:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

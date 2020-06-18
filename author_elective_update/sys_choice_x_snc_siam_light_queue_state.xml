@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="state" table="x_snc_siam_light_queue" version="3">
+        <sys_choice_set action="DELETE">
+            <element>state</element>
+            <name>x_snc_siam_light_queue</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-06-18 07:58:44</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>21b96f364f791200e17199701310c795</instance_id>
+        <instance_name>empddraesdev</instance_name>
+        <name>sys_choice_x_snc_siam_light_queue_state</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="state" table="x_snc_siam_light_queue" version="3"><sys_choice_set action="DELETE"><element>state</element><name>x_snc_siam_light_queue</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_customer_update>false</sys_customer_update><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-06-18 07:58:44</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1566819908</payload_hash>
+        <record_name>x_snc_siam_light_queue.state</record_name>
+        <reverted_from/>
+        <source>327723d0db834300b315f27eaf96195e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2020-06-18 07:58:44</sys_created_on>
+        <sys_id>2414af54dba9d8507927623b4b961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172c66ff16d0000001</sys_recorded_at>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2020-06-18 07:58:44</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>e814af5415a9d850a35a427675b40f77</update_guid>
+        <update_guid_history>e814af5415a9d850a35a427675b40f77:-1566819908,6814af5424a9d85081e6ef505574b374:-2117334031,a814af54fda9d8504a4bbd8d54293571:1405073691,2814af5459a9d85053abbeb0a3c2dc6e:1378438896,2077840367:2077840367,-1196737854:-1196737854,-464860521:-464860521,-1566819908:-1566819908,-1917806184:-1917806184,1695091815:1695091815,495801443:495801443,-1917806184:-1917806184,-1566819908:-1566819908,-464860521:-464860521,-1196737854:-1196737854,1695091815:1695091815,495801443:495801443,-1917806184:-1917806184,-1566819908:-1566819908,-464860521:-464860521,-1196737854:-1196737854,1695091815:1695091815,-545320933:-545320933,-464860521:-464860521,-1196737854:-1196737854,-1917806184:-1917806184,1695091815:1695091815</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_on>2020-06-18 08:00:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>e9442b94dba9d8507927623b4b961991</sys_id>
+        <sys_metadata>e9442b94dba9d8507927623b4b961991</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
+        <sys_scope_delete display_value="">3f806baa7e3e450d83820d4c701eef11</sys_scope_delete>
+        <sys_update_name>sys_choice_x_snc_siam_light_queue_state</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_snc_siam_light_queue_state">2414af54dba9d8507927623b4b961978</sys_update_version>
+        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_on>2020-06-18 08:00:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="action_update" label="Update" language="en" table="x_snc_siam_light_outbound_trigger">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>action_update</element>
@@ -13,7 +12,7 @@
             <sys_created_by>daniel.draes</sys_created_by>
             <sys_created_on>2017-02-14 14:38:56</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>401c82374fb07640908b81c18110c7be</sys_id>
+            <sys_id>09442b94dba9d8507927623b4b961959</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Update</sys_name>
             <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>

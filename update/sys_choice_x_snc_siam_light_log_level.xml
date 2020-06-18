@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_choice action="INSERT_OR_UPDATE" field="level" table="x_snc_siam_light_log" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -84,7 +83,7 @@
             <sys_created_by>daniel.draes</sys_created_by>
             <sys_created_on>2016-06-02 09:01:35</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>7f7b3b104fa00700908b81c18110c7e8</sys_id>
+            <sys_id>2f8710a8db6dd8507927623b4b96197a</sys_id>
             <sys_mod_count>16</sys_mod_count>
             <sys_name>level</sys_name>
             <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>

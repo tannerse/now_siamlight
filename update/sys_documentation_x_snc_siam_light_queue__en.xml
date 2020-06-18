@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="" label="Queue" language="en" table="x_snc_siam_light_queue">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
@@ -13,7 +12,7 @@
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2015-10-22 10:31:35</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>8fbe0845295f42002e68eb689ad1b2f3</sys_id>
+            <sys_id>1d442b94dba9d8507927623b4b961971</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Queue</sys_name>
             <sys_package display_value="SIAM Light" source="x_snc_siam_light">add64881295f42002e68eb689ad1b2ab</sys_package>
